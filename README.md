@@ -25,6 +25,7 @@ I'm Holyentgold, a passionate Fullstack Developer with expertise in Front-End, B
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
 </p>
+
 ## Contact
 - Email: [holyentgoldconcept@gmail.com](mailto:holyentgoldconcept@gmail.com)
 
