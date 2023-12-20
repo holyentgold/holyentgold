@@ -2,8 +2,8 @@
 I'm Holyentgold, a passionate Fullstack Developer with expertise in Front-End, Back-End & Database Management.
 # Skills
 - Frontend: HTML, CSS, JavaScript, React, React Native, TypeScript 
-- Backend: Node.js, Express, Python, Flask, Django, PHP, Laravel
-- Database: MongoDB, MySQL
+- Backend: Node.js, Express
+- Database: MongoDB
 # Framworks
 ## Front-End
 <p align="center">
@@ -19,19 +19,12 @@ I'm Holyentgold, a passionate Fullstack Developer with expertise in Front-End, B
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" width='50' height='50' />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50" />
 </p>
 
 ## DataBase
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
 </p>
-
 ## Contact
 - Email: [holyentgoldconcept@gmail.com](mailto:holyentgoldconcept@gmail.com)
 
